@@ -1,0 +1,13 @@
+.login-form{
+  background-color: rgb(195, 214, 214);
+  border-radius: 1 rem;
+  width: 100%;
+  max-width: 330px;
+  padding: 13px;
+  margin: auto;
+  height: 100%;
+  
+}
+.font-weight-bold{
+  text-align: center;
+}
