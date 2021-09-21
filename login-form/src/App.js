@@ -35,7 +35,7 @@ class App extends Component {
 				</FormGroup>
 				<br />
 
-				<button className = "btn-lg btn-dark btn-block">Log in </button>
+				{/* <button className = "btn-lg btn-dark btn-block">Log in </button> */}
 				<button type="button" className="btn btn-secondary">
 					Log in
 				</button>
