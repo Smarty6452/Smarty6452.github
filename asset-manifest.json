@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Smarty6452.github/static/css/main.ffb77969.chunk.css",
-    "main.js": "/Smarty6452.github/static/js/main.72e370a9.chunk.js",
-    "main.js.map": "/Smarty6452.github/static/js/main.72e370a9.chunk.js.map",
+    "main.js": "/Smarty6452.github/static/js/main.cf665e1f.chunk.js",
+    "main.js.map": "/Smarty6452.github/static/js/main.cf665e1f.chunk.js.map",
     "runtime-main.js": "/Smarty6452.github/static/js/runtime-main.d32065fc.js",
     "runtime-main.js.map": "/Smarty6452.github/static/js/runtime-main.d32065fc.js.map",
     "static/css/2.53150396.chunk.css": "/Smarty6452.github/static/css/2.53150396.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.53150396.chunk.css",
     "static/js/2.ad19fb3e.chunk.js",
     "static/css/main.ffb77969.chunk.css",
-    "static/js/main.72e370a9.chunk.js"
+    "static/js/main.cf665e1f.chunk.js"
   ]
 }
