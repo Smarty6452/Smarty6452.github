@@ -5,18 +5,15 @@ import './App.css';
 import { Button, Form, FormGroup, label, Input } from 'reactstrap';
 
 import { FacebookLoginButton } from 'react-social-login-buttons';
-import Navbar from './components/Navbar';
 
 class App extends Component {
 	render() {
 		// function to opening url
 		const openInNewTab = (url) => {
-			const newWindow = window.open(url, '_blank', 'noopener,noreferrer')
-			if (newWindow) newWindow.opener = null
-		}
-	
+			const newWindow = window.open(url, '_blank', 'noopener,noreferrer');
+			if (newWindow) newWindow.opener = null;
+		};
 		return (
-			
 			<Form className="login-form">
 				<h1>
 					<span className="font-weight-bold">MyAnswers.com</span>
@@ -39,7 +36,7 @@ class App extends Component {
 				<br />
 
 				{/* <button className = "btn-lg btn-dark btn-block">Log in </button> */}
-				<button type="button"  className="btn btn-secondary">
+				<button type="button" className="btn btn-secondary">
 					Log in
 				</button>
 				<div className="text-center pt-3">Or continue with your social account</div>
